@@ -69,3 +69,6 @@ Detection of Number Plate using the robust and state-of-art Yolov8 model, latest
 **Invalid LP**
 ![Invalid LP](result_images/InvalidLP.png)
 
+**Research Paper Link**
+https://ieeexplore.ieee.org/document/10498740
+
